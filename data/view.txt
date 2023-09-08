@@ -1,0 +1,6 @@
+ '8d3a683caaa5100ea90e5eb8746e1c21f3fd3aee816274287029aaf969f69332': {'last_clicked': None, 'last_object_clicked': None, 'last_object_clicked_tooltip': None, 'last_object_clicked_popup': None, 'all_drawings': None, 'last_active_drawing': None, 'bounds': {'_southWest': {'lat': 7.798078531355303, 'lng': 62.70996093750001
+         }, '_northEast': {'lat': 35.9602229692967, 'lng': 107.70996093750001
+         }
+     }, 'zoom': 5, 'last_circle_radius': None, 'last_circle_polygon': None, 'center': {'lat': 22.6139, 'lng': 85.209
+     }
+ }

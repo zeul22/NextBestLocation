@@ -1,0 +1,28 @@
+city_ascii,Latitude,Longitude,country,State,population,id,ID,Icon_ID,Icon_Size,Opacity
+Agra,27.2171066,78.0897193,India,Uttar Pradesh,1585704,2356884473,walmart store,0,15,1
+Agra,27.2198833,77.924467,India,Uttar Pradesh,1585704,2356884474,walmart store,0,15,1
+Meerut,29.0369571,77.6667859,India,Uttar Pradesh,1570000,2356884475,walmart store,0,15,1
+Lucknow,26.7992306,81.0014525,India,Uttar Pradesh,3945000,2356884476,walmart store,0,15,1
+Nizamabad,18.6561036,78.1215247,India,Telangana,345000,2356884477,walmart store,0,15,1
+Karimnagar,18.4417347,79.0925292,India,Telangana,29747,2356884478,walmart store,0,15,1
+Hyderabad,17.3355243,77.2074438,India,Telangana,1080163,2356884479,walmart store,0,15,1
+Kota,25.1347896,75.8528093,India,Rajasthan,1474000,2356884480,walmart store,0,15,1
+Bathinda,29.9550073,74.764161,India,Punjab,396000,2356884481,walmart store,0,15,1
+Zirakpur,30.6581994,76.7960179,India,Punjab,130000,2356884482,walmart store,0,15,1
+Ludhiana,30.8922343,75.9183845,India,Punjab,1618879,2356884483,walmart store,0,15,1
+Ludhiana,30.8881353,75.939389,India,Punjab,1618879,2356884484,walmart store,0,15,1
+Jalandhar,31.2921421,75.6547982,India,Punjab,873725,2356884485,walmart store,0,15,1
+Amritsar,31.5901625,74.9593938,India,Punjab,1132383,2356884486,walmart store,0,15,1
+Amravati,20.887377,77.739958,India,Maharastra,549370,2356884487,walmart store,0,15,1
+Aurangabad,19.8499883,75.2970824,India,Maharastra,1371330,2356884488,walmart store,0,15,1
+Bhopal,23.3039442,77.2664846,India,Madhya Pradesh,1798218,2356884489,walmart store,0,15,1
+Bhopal,23.1537257,77.3251948,India,Madhya Pradesh,1798218,2356884490,walmart store,0,15,1
+Indore,22.7019134,75.8367779,India,Madhya Pradesh,1994397,2356884491,walmart store,0,15,1
+Indore,22.6533437,75.7462292,India,Madhya Pradesh,1994397,2356884492,walmart store,0,15,1
+Jammu,32.7442982,74.8301068,India,Jammu & kashmir,502197,2356884493,walmart store,0,15,1
+Raipur,21.2920087,81.6258309,India,Chattisgarh,1010087,2356884494,walmart store,0,15,1
+Guntur,19.1118861,77.1414658,India,Andra Pradesh,647508,2356884495,walmart store,0,15,1
+Rajahmundry,17.0005434,81.8014596,India,Andra Pradesh,341831,2356884496,walmart store,0,15,1
+Vijaywada,16.5109783,80.7110012,India,Andra Pradesh,1048240,2356884497,walmart store,0,15,1
+Vishakhapatnam,17.6852774,83.1117254,India,Andra Pradesh,2035922,2356884498,walmart store,0,15,1
+Mumbai,19.1016206,72.6649396,,Maharastra,24973000,2356884499,walmart store,0,15,1

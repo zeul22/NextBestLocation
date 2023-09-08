@@ -1,0 +1,423 @@
+city_ascii,Latitude,Longitude,country,State,population,id,ID,Icon_ID,Icon_Size,Opacity
+Delhi,28.61,77.23,India,Delhi,32226000,1356872604,walmart potential location,0,50,1
+Mumbai,19.0761,72.8775,India,Maharashtra,24973000,1356226629,walmart potential location,0,50,1
+Kolkata,22.5675,88.37,India,West Bengal,18502000,1356060520,walmart potential location,0,50,1
+Bangalore,12.9789,77.5917,India,Karnataka,15386000,1356410365,walmart potential location,0,50,1
+Chennai,13.0825,80.275,India,Tamil Nadu,12395000,1356374944,walmart potential location,0,50,1
+Hyderabad,17.385,78.4867,India,Telangana,10494000,1356871768,walmart potential location,0,50,1
+Pune,18.5203,73.8567,India,Maharashtra,8231000,1356081074,walmart potential location,0,50,1
+Ahmedabad,23.03,72.58,India,Gujarat,8009000,1356304381,walmart potential location,0,50,1
+Surat,21.1702,72.8311,India,Gujarat,6538000,1356758738,walmart potential location,0,50,1
+Prayagraj,25.4358,81.8464,India,Uttar Pradesh,5954391,1356718332,walmart potential location,0,50,1
+Lucknow,26.85,80.95,India,Uttar Pradesh,3382000,1356891790,walmart potential location,0,50,1
+Jaipur,26.9,75.8,India,Rajasthan,3073350,1356293537,walmart potential location,0,50,1
+Cawnpore,26.4499,80.3319,India,Uttar Pradesh,2701324,1356575238,walmart potential location,0,50,1
+Mirzapur,25.146,82.569,India,Uttar Pradesh,2496970,1356427908,walmart potential location,0,50,1
+Nagpur,21.1497,79.0806,India,Maharashtra,2405665,1356365743,walmart potential location,0,50,1
+Ghaziabad,28.67,77.42,India,Uttar Pradesh,2375820,1356691871,walmart potential location,0,50,1
+Vadodara,22.3,73.2,India,Gujarat,2065771,1356705249,walmart potential location,0,50,1
+Vishakhapatnam,17.7042,83.2978,India,Andhra Pradesh,2035922,1356692563,walmart potential location,0,50,1
+Indore,22.7167,75.8472,India,Madhya Pradesh,1994397,1356402812,walmart potential location,0,50,1
+Thane,19.1972,72.9722,India,Maharashtra,1886941,1356681152,walmart potential location,0,50,1
+Bhopal,23.25,77.4167,India,Madhya Pradesh,1798218,1356734039,walmart potential location,0,50,1
+Chinchvad,18.6186,73.8037,India,Maharashtra,1729320,1356475483,walmart potential location,0,50,1
+Patna,25.6,85.1,India,Bihar,1684222,1356821429,walmart potential location,0,50,1
+Bilaspur,22.09,82.15,India,Chhattisgarh,1625502,1356820491,walmart potential location,0,50,1
+Ludhiana,30.91,75.85,India,Punjab,1618879,1356929498,walmart potential location,0,50,1
+Agwar,27.18,78.02,India,Uttar Pradesh,1585705,1356151564,walmart potential location,0,50,1
+Agra,27.18,78.02,India,Uttar Pradesh,1585704,1356187395,walmart potential location,0,50,1
+Madurai,9.9252,78.1198,India,Tamil Nadu,1561129,1356257289,walmart potential location,0,50,1
+Jamshedpur,22.7925,86.1842,India,Jharkhand,1558000,1356501259,walmart potential location,0,50,1
+Nasik,20,73.78,India,Maharashtra,1486053,1356562598,walmart potential location,0,50,1
+Faridabad,28.4167,77.3,India,Haryana,1404653,1356013205,walmart potential location,0,50,1
+Aurangabad,19.88,75.32,India,Maharashtra,1371330,1356840670,walmart potential location,0,50,1
+Rajkot,22.3,70.7833,India,Gujarat,1335397,1356317190,walmart potential location,0,50,1
+Meerut,28.98,77.71,India,Uttar Pradesh,1305429,1356390476,walmart potential location,0,50,1
+Jabalpur,23.1667,79.9333,India,Madhya Pradesh,1267564,1356115460,walmart potential location,0,50,1
+Kalamboli,19.2333,73.1333,India,Maharashtra,1246381,1356537020,walmart potential location,0,50,1
+Vasai,19.47,72.8,India,Maharashtra,1222390,1356707797,walmart potential location,0,50,1
+Najafgarh,28.6092,76.9798,India,Delhi,1203180,1356180206,walmart potential location,0,50,1
+Varanasi,25.3189,83.0128,India,Uttar Pradesh,1198491,1356145782,walmart potential location,0,50,1
+Srinagar,34.09,74.79,India,Jammu and Kashmir,1180570,1356442950,walmart potential location,0,50,1
+Dhanbad,23.7998,86.4305,India,Jharkhand,1162472,1356103392,walmart potential location,0,50,1
+Amritsar,31.64,74.86,India,Punjab,1132383,1356926507,walmart potential location,0,50,1
+Aligarh,27.88,78.08,India,Uttar Pradesh,1131160,1356076391,walmart potential location,0,50,1
+Guwahati,26.1722,91.7458,India,Assam,1116267,1356593800,walmart potential location,0,50,1
+Haora,22.58,88.3294,India,West Bengal,1077075,1356986516,walmart potential location,0,50,1
+Ranchi,23.36,85.33,India,Jharkhand,1073440,1356110588,walmart potential location,0,50,1
+Gwalior,26.2215,78.178,India,Madhya Pradesh,1069276,1356363967,walmart potential location,0,50,1
+Chandigarh,30.75,76.78,India,Chandigarh,1055450,1356739179,walmart potential location,0,50,1
+Vijayawada,16.5193,80.6305,India,Andhra Pradesh,1048240,1356807575,walmart potential location,0,50,1
+Jodhpur,26.28,73.02,India,Rajasthan,1033918,1356727084,walmart potential location,0,50,1
+Raipur,21.25,81.63,India,Chhattisgarh,1010087,1356374983,walmart potential location,0,50,1
+Kota,25.18,75.83,India,Rajasthan,1001694,1356820310,walmart potential location,0,50,1
+Bareilly,28.364,79.415,India,Uttar Pradesh,1000000,1356698199,walmart potential location,0,50,1
+Coimbatore,11.0168,76.9558,India,Tamil Nadu,959823,1356999503,walmart potential location,0,50,1
+Solapur,17.68,75.92,India,Maharashtra,951558,1356314385,walmart potential location,0,50,1
+Trichinopoly,10.7903,78.7047,India,Tamil Nadu,916857,1356884472,walmart potential location,0,50,1
+Moradabad,28.8389,78.7769,India,Uttar Pradesh,887871,1356269375,walmart potential location,0,50,1
+Tiruppur,11.1085,77.3411,India,Tamil Nadu,877778,1356539761,walmart potential location,0,50,1
+Gurgaon,28.456,77.029,India,Haryana,876824,1356836043,walmart potential location,0,50,1
+Jalandhar,31.2569,75.4432,India,Punjab,873725,1356494816,walmart potential location,0,50,1
+Bhubaneshwar,20.27,85.84,India,Odisha,837737,1356140143,walmart potential location,0,50,1
+Kalkaji Devi,28.5485,77.2513,India,Delhi,824177,1356264482,walmart potential location,0,50,1
+Mandvi,19.3,72.85,India,Maharashtra,814655,1356843310,walmart potential location,0,50,1
+Bhayandar,19.29,72.85,India,Maharashtra,809378,1356019118,walmart potential location,0,50,1
+Patiala,30.34,76.38,India,Punjab,763280,1356458416,walmart potential location,0,50,1
+Dhulia,20.8997,74.7697,India,Maharashtra,750000,1356224695,walmart potential location,0,50,1
+Thiruvananthapuram,8.4875,76.9525,India,Kerala,743691,1356024354,walmart potential location,0,50,1
+Bhiwandi,19.2967,73.0631,India,Maharashtra,709665,1356763571,walmart potential location,0,50,1
+Saharanpur,29.964,77.546,India,Uttar Pradesh,705478,1356139858,walmart potential location,0,50,1
+Warangal,17.9689,79.5941,India,Andhra Pradesh,704570,1356851618,walmart potential location,0,50,1
+Shiliguri,26.71,88.43,India,West Bengal,701489,1356724691,walmart potential location,0,50,1
+Vellore,12.9165,79.1325,India,Tamil Nadu,696110,1356977661,walmart potential location,0,50,1
+Salem,11.65,78.15,India,Tamil Nadu,693236,1356567087,walmart potential location,0,50,1
+Kochi,9.97,76.28,India,Kerala,677381,1356707865,walmart potential location,0,50,1
+Gorakhpur,26.7637,83.4039,India,Uttar Pradesh,673446,1356190221,walmart potential location,0,50,1
+Narela,28.8527,77.0929,India,Delhi,661994,1356542019,walmart potential location,0,50,1
+Guntur,16.3008,80.4428,India,Andhra Pradesh,647508,1356374905,walmart potential location,0,50,1
+Bhavnagar,21.76,72.15,India,Gujarat,643365,1356982375,walmart potential location,0,50,1
+Rasulpur,28.57,77.32,India,Uttar Pradesh,637272,1356018224,walmart potential location,0,50,1
+Noida,28.57,77.32,India,Uttar Pradesh,637272,1356002491,walmart potential location,0,50,1
+Brahmapur,19.315,84.7941,India,Odisha,634220,1356569354,walmart potential location,0,50,1
+Bhangar,22.58,88.42,India,West Bengal,632107,1356177796,walmart potential location,0,50,1
+Bhilai,21.3667,81.7167,India,Chhattisgarh,625700,1356098574,walmart potential location,0,50,1
+Bhilai,21.21,81.38,India,Chhattisgarh,624700,1356071083,walmart potential location,0,50,1
+Mangalore,12.902,74.8253,India,Karnataka,623841,1356972351,walmart potential location,0,50,1
+Nagercoil,8.1833,77.4119,India,Tamil Nadu,622759,1356051733,walmart potential location,0,50,1
+Cuttack,20.5236,85.7881,India,Odisha,606007,1356872061,walmart potential location,0,50,1
+Raurkela,22.2492,84.8828,India,Odisha,600000,1356096816,walmart potential location,0,50,1
+Tumkur,13.34,77.1,India,Karnataka,599078,1356033724,walmart potential location,0,50,1
+Durgapur,23.55,87.32,India,West Bengal,581409,1356045686,walmart potential location,0,50,1
+Dehra Dun,30.345,78.029,India,Uttarakhand,578420,1356970407,walmart potential location,0,50,1
+Chapra,25.7848,84.7274,India,Bihar,567123,1356147120,walmart potential location,0,50,1
+Asansol,23.68,86.99,India,West Bengal,563917,1356093694,walmart potential location,0,50,1
+Kolhapur,16.6917,74.2333,India,Maharashtra,561489,1356110593,walmart potential location,0,50,1
+Ajmer,26.4499,74.6399,India,Rajasthan,551101,1356058258,walmart potential location,0,50,1
+Nanded,19.15,77.3,India,Maharashtra,550439,1356722310,walmart potential location,0,50,1
+Amravati,20.9258,77.7647,India,Maharashtra,549370,1356462099,walmart potential location,0,50,1
+Nellore,14.45,79.99,India,Andhra Pradesh,547621,1356280972,walmart potential location,0,50,1
+Gulbarga,17.329,76.825,India,Karnataka,533587,1356091187,walmart potential location,0,50,1
+Bikaner,28.0167,73.3119,India,Rajasthan,529007,1356026593,walmart potential location,0,50,1
+Agartala,23.8333,91.2833,India,Tripura,522613,1356148992,walmart potential location,0,50,1
+Loni,28.75,77.28,India,Uttar Pradesh,516082,1356528413,walmart potential location,0,50,1
+Ujjain,23.17,75.79,India,Madhya Pradesh,515215,1356050735,walmart potential location,0,50,1
+Bhilwara,25.35,74.63,India,Rajasthan,509483,1356077831,walmart potential location,0,50,1
+Jhansi,25.4486,78.5696,India,Uttar Pradesh,507000,1356712664,walmart potential location,0,50,1
+Ulhasnagar,19.22,73.15,India,Maharashtra,506098,1356375341,walmart potential location,0,50,1
+Jammu,32.73,74.87,India,Jammu and Kashmir,502197,1356491738,walmart potential location,0,50,1
+Tinnevelly,8.7136,77.7567,India,Tamil Nadu,497826,1356037155,walmart potential location,0,50,1
+Purnea,25.778,87.476,India,Bihar,496830,1356486511,walmart potential location,0,50,1
+Belgaum,15.85,74.5,India,Karnataka,488157,1356390535,walmart potential location,0,50,1
+Jamnagar,22.47,70.07,India,Gujarat,479920,1356104995,walmart potential location,0,50,1
+Gaya,24.75,85.01,India,Bihar,474093,1356045727,walmart potential location,0,50,1
+Ambattur,13.1143,80.1548,India,Tamil Nadu,466205,1356685959,walmart potential location,0,50,1
+Jalgaon,21.004,75.568,India,Maharashtra,460468,1356734842,walmart potential location,0,50,1
+Kurnool,15.83,78.05,India,Andhra Pradesh,457633,1356058372,walmart potential location,0,50,1
+Udaipur,24.58,73.68,India,Rajasthan,451100,1356266094,walmart potential location,0,50,1
+Mathura,27.4925,77.6736,India,Uttar Pradesh,441894,1356066081,walmart potential location,0,50,1
+Sangli,16.8667,74.5667,India,Maharashtra,436639,1356921375,walmart potential location,0,50,1
+Davangere,14.4666,75.9242,India,Karnataka,435125,1356445061,walmart potential location,0,50,1
+Calicut,11.25,75.77,India,Kerala,431560,1356010401,walmart potential location,0,50,1
+Akola,20.7,77,India,Maharashtra,425817,1356089496,walmart potential location,0,50,1
+Bettiah,26.8014,84.5028,India,Bihar,414453,1356590604,walmart potential location,0,50,1
+Shorapur,16.52,76.76,India,Karnataka,412291,1356512373,walmart potential location,0,50,1
+Bellary,15.1,76.9167,India,Karnataka,410445,1356209152,walmart potential location,0,50,1
+Bhagalpur,25.25,87,India,Bihar,410210,1356760990,walmart potential location,0,50,1
+Padiala,30.5667,76.6333,India,Punjab,406192,1356667176,walmart potential location,0,50,1
+Delhi Cantonment,28.6,77.1333,India,Delhi,405633,1356526853,walmart potential location,0,50,1
+Salt Lake City,22.61,88.4,India,West Bengal,403316,1356720205,walmart potential location,0,50,1
+Quilon,8.88,76.6,India,Kerala,397419,1356304110,walmart potential location,0,50,1
+Hazaribagh,23.98,85.35,India,Jharkhand,394532,1356960055,walmart potential location,0,50,1
+Bhatpara,22.87,88.41,India,West Bengal,386019,1356022456,walmart potential location,0,50,1
+Kukatpalli,17.4849,78.4138,India,Andhra Pradesh,385821,1356553747,walmart potential location,0,50,1
+Sirur,18.83,74.38,India,Maharashtra,385414,1356926718,walmart potential location,0,50,1
+Kakinada,16.9661,82.255,India,Andhra Pradesh,384182,1356573609,walmart potential location,0,50,1
+Sardarshahr,28.4401,74.4908,India,Rajasthan,382474,1356932502,walmart potential location,0,50,1
+Darbhanga,26.17,85.9,India,Bihar,380125,1356846195,walmart potential location,0,50,1
+Panihati,22.69,88.37,India,West Bengal,377347,1356118632,walmart potential location,0,50,1
+Rohtak,28.8909,76.5796,India,Haryana,374292,1356162915,walmart potential location,0,50,1
+Maler Kotla,30.5167,75.8833,India,Punjab,374000,1356847218,walmart potential location,0,50,1
+Korba,22.35,82.68,India,Chhattisgarh,365253,1356093877,walmart potential location,0,50,1
+Sikar,27.62,75.15,India,Rajasthan,359293,1356163729,walmart potential location,0,50,1
+Karur,10.9601,78.0766,India,Tamil Nadu,358468,1356837900,walmart potential location,0,50,1
+Sasaram,24.95,84.03,India,Bihar,358283,1356061200,walmart potential location,0,50,1
+Karnal,29.686,76.989,India,Haryana,357334,1356145204,walmart potential location,0,50,1
+Chanda,19.95,79.297,India,Maharashtra,355739,1356592607,walmart potential location,0,50,1
+Ahmadnagar,19.08,74.73,India,Maharashtra,350859,1356972679,walmart potential location,0,50,1
+Dasarhalli,13.0465,77.513,India,Karnataka,349720,1356103194,walmart potential location,0,50,1
+Shahjanpur,27.88,79.91,India,Uttar Pradesh,346103,1356415439,walmart potential location,0,50,1
+Avadi,13.1097,80.0972,India,Tamil Nadu,345996,1356009111,walmart potential location,0,50,1
+Hosur,12.7409,77.8253,India,Tamil Nadu,345000,1356829362,walmart potential location,0,50,1
+Cuddapah,14.47,78.82,India,Andhra Pradesh,344893,1356360140,walmart potential location,0,50,1
+Rajahmundry,16.98,81.78,India,Andhra Pradesh,341831,1356831716,walmart potential location,0,50,1
+Alwar,27.5498,76.6355,India,Rajasthan,341422,1356570855,walmart potential location,0,50,1
+Sambalpur,21.47,83.97,India,Odisha,335761,1356772339,walmart potential location,0,50,1
+Muzaffarpur,26.1225,85.3906,India,Bihar,333200,1356897425,walmart potential location,0,50,1
+Kamarhati,22.6686,88.3704,India,West Bengal,330211,1356676559,walmart potential location,0,50,1
+Bijapur,16.83,75.71,India,Karnataka,327427,1356499139,walmart potential location,0,50,1
+Tharad,24.3926,71.6248,India,Gujarat,327289,1356055796,walmart potential location,0,50,1
+Ratnagiri,16.9944,73.3,India,Maharashtra,327120,1356990175,walmart potential location,0,50,1
+Rampur,28.8,79,India,Uttar Pradesh,325248,1356666569,walmart potential location,0,50,1
+Shimoga,13.9333,75.5667,India,Karnataka,322650,1356016156,walmart potential location,0,50,1
+Junagadh,21.52,70.463,India,Gujarat,320250,1356057451,walmart potential location,0,50,1
+Hapur,28.7309,77.7757,India,Uttar Pradesh,317004,1356820012,walmart potential location,0,50,1
+Trichur,10.52,76.21,India,Kerala,315596,1356589298,walmart potential location,0,50,1
+Barddhaman,23.2333,87.8667,India,West Bengal,314265,1356062166,walmart potential location,0,50,1
+Panvel,18.9944,73.1139,India,Maharashtra,311434,1356424574,walmart potential location,0,50,1
+Nizamabad,18.672,78.094,India,Andhra Pradesh,311152,1356242168,walmart potential location,0,50,1
+Parbhani,19.27,76.78,India,Maharashtra,307170,1356632842,walmart potential location,0,50,1
+Hisar,29.15,75.7,India,Haryana,307024,1356004790,walmart potential location,0,50,1
+Oulgaret,11.957,79.7737,India,Puducherry,300104,1356242623,walmart potential location,0,50,1
+Maldah,25.0119,88.1433,India,West Bengal,300088,1356350335,walmart potential location,0,50,1
+Bada Barabil,22.12,85.4,India,Odisha,300000,1356293872,walmart potential location,0,50,1
+Bihar,25.197,85.518,India,Bihar,297268,1356002333,walmart potential location,0,50,1
+Sikandarabad,28.4512,77.6955,India,Uttar Pradesh,294858,1356989226,walmart potential location,0,50,1
+Panipat,29.3875,76.97,India,Haryana,294292,1356526780,walmart potential location,0,50,1
+Aizawl,23.7272,92.7178,India,Mizoram,293416,1356342768,walmart potential location,0,50,1
+Bali,22.65,88.34,India,West Bengal,293373,1356113138,walmart potential location,0,50,1
+Karimnagar,18.4386,79.1288,India,Andhra Pradesh,289821,1356578937,walmart potential location,0,50,1
+Dewas,22.96,76.06,India,Madhya Pradesh,289550,1356065731,walmart potential location,0,50,1
+Sonipat,28.99,77.022,India,Haryana,289333,1356648808,walmart potential location,0,50,1
+Sonpur,25.7,85.18,India,Bihar,288102,1356149014,walmart potential location,0,50,1
+Ichalkaranji,16.7,74.47,India,Maharashtra,287570,1356651502,walmart potential location,0,50,1
+Bhatinda,30.23,74.9519,India,Punjab,285813,1356343054,walmart potential location,0,50,1
+Jalna,19.841,75.8864,India,Maharashtra,285577,1356730545,walmart potential location,0,50,1
+Sannai,24.5984,80.8281,India,Madhya Pradesh,283004,1356009968,walmart potential location,0,50,1
+Satna,24.6005,80.8322,India,Madhya Pradesh,280222,1356008295,walmart potential location,0,50,1
+Mau,25.9417,83.5611,India,Uttar Pradesh,278745,1356238859,walmart potential location,0,50,1
+Barasat,22.72,88.48,India,West Bengal,278435,1356644721,walmart potential location,0,50,1
+Farrukhabad,27.39,79.581,India,Uttar Pradesh,275754,1356776384,walmart potential location,0,50,1
+Saugor,23.83,78.71,India,Madhya Pradesh,274556,1356781800,walmart potential location,0,50,1
+Ratlam,23.334,75.037,India,Madhya Pradesh,273892,1356241663,walmart potential location,0,50,1
+Handwara,34.4,74.28,India,Jammu and Kashmir,269311,1356080179,walmart potential location,0,50,1
+Drug,21.19,81.28,India,Chhattisgarh,268806,1356910418,walmart potential location,0,50,1
+Anantapur,14.68,77.599,India,Andhra Pradesh,267161,1356296545,walmart potential location,0,50,1
+Imphal,24.8074,93.9384,India,Manipur,264986,1356107172,walmart potential location,0,50,1
+Arrah,25.5514,84.6603,India,Bihar,261430,1356085605,walmart potential location,0,50,1
+Etawah,26.77,79.03,India,Uttar Pradesh,256838,1356241312,walmart potential location,0,50,1
+Malkajgiri,17.4519,78.5362,India,Andhra Pradesh,255899,1356092535,walmart potential location,0,50,1
+Gadda Madiral,18.7519,79.5133,India,Andhra Pradesh,252693,1356055274,walmart potential location,0,50,1
+Bharatpur,27.22,77.48,India,Rajasthan,252342,1356168278,walmart potential location,0,50,1
+Begusarai,25.42,86.13,India,Bihar,252008,1356619346,walmart potential location,0,50,1
+Junagarh,19.8599,82.9338,India,Chhattisgarh,251842,1356057455,walmart potential location,0,50,1
+New Delhi,28.6139,77.209,India,Delhi,249998,1356215164,walmart potential location,0,50,1
+Tiruvottiyur,13.16,80.3,India,Tamil Nadu,249446,1356964110,walmart potential location,0,50,1
+Ramnagar,27.17,84.32,India,Bihar,249102,1356673115,walmart potential location,0,50,1
+Gandhidham,23.08,70.13,India,Gujarat,248705,1356140913,walmart potential location,0,50,1
+Krishnarajpur,13.012,77.6951,India,Karnataka,245797,1356007149,walmart potential location,0,50,1
+Nelamangala,13.102,77.374,India,Karnataka,245624,1356943451,walmart potential location,0,50,1
+Singrauliya,24.11,82.39,India,Madhya Pradesh,244450,1356985698,walmart potential location,0,50,1
+Puducherry,11.9167,79.8167,India,Puducherry,244377,1356368903,walmart potential location,0,50,1
+Ramgundam,18.7639,79.475,India,Andhra Pradesh,242979,1356590864,walmart potential location,0,50,1
+Pandharpur,17.6778,75.3278,India,Maharashtra,242515,1356852072,walmart potential location,0,50,1
+Masaurhi Buzurg,25.35,85.02,India,Bihar,241216,1356191575,walmart potential location,0,50,1
+Katihar,25.53,87.58,India,Bihar,240565,1356099841,walmart potential location,0,50,1
+Byatarayanpur,13.0659,77.5922,India,Karnataka,239902,1356590852,walmart potential location,0,50,1
+Tuticorin,8.7642,78.1348,India,Tamil Nadu,237830,1356751023,walmart potential location,0,50,1
+Ganganagar,29.92,73.88,India,Rajasthan,237780,1356431302,walmart potential location,0,50,1
+Rewa,24.53,81.3,India,Madhya Pradesh,236519,1356642255,walmart potential location,0,50,1
+Uluberiya,22.47,88.11,India,West Bengal,235345,1356354610,walmart potential location,0,50,1
+Bulandshahr,28.4069,77.8497,India,Uttar Pradesh,235310,1356067648,walmart potential location,0,50,1
+Cannanore,11.8689,75.3555,India,Kerala,232486,1356147157,walmart potential location,0,50,1
+Raichur,16.2,77.37,India,Karnataka,232456,1356217280,walmart potential location,0,50,1
+Pali,25.77,73.33,India,Rajasthan,229956,1356212172,walmart potential location,0,50,1
+Songadh,21.167,73.564,India,Gujarat,229782,1356550633,walmart potential location,0,50,1
+Haridwar,29.945,78.163,India,Uttarakhand,228832,1356090741,walmart potential location,0,50,1
+Vizianagaram,18.1159,83.406,India,Andhra Pradesh,228720,1356212761,walmart potential location,0,50,1
+Pathardi,19.17,75.18,India,Maharashtra,228279,1356126088,walmart potential location,0,50,1
+Khatima,28.92,79.97,India,Uttarakhand,227226,1356442679,walmart potential location,0,50,1
+Petlad,22.47,72.8,India,Gujarat,227031,1356943594,walmart potential location,0,50,1
+Nadiad,22.69,72.86,India,Gujarat,225132,1356992385,walmart potential location,0,50,1
+Tanjore,10.787,79.1378,India,Tamil Nadu,222943,1356599194,walmart potential location,0,50,1
+Tiptur,13.26,76.48,India,Karnataka,222749,1356059008,walmart potential location,0,50,1
+Kichha,28.92,79.5,India,Uttarakhand,221965,1356016973,walmart potential location,0,50,1
+Katri,23.48,80.4,India,Madhya Pradesh,221875,1356636912,walmart potential location,0,50,1
+Sambhal,28.58,78.55,India,Uttar Pradesh,220813,1356376216,walmart potential location,0,50,1
+Anand,22.556,72.951,India,Gujarat,218486,1356044073,walmart potential location,0,50,1
+Naihati,22.89,88.42,India,West Bengal,217900,1356715598,walmart potential location,0,50,1
+Yamunanagar,30.133,77.288,India,Haryana,216628,1356846120,walmart potential location,0,50,1
+Pallavaram,12.9675,80.1491,India,Tamil Nadu,215417,1356057661,walmart potential location,0,50,1
+Secunderabad,17.4399,78.4983,India,Andhra Pradesh,213698,1356779437,walmart potential location,0,50,1
+Monghyr,25.381,86.465,India,Bihar,213101,1356280102,walmart potential location,0,50,1
+Gokak,16.1667,74.8333,India,Karnataka,213000,1356269894,walmart potential location,0,50,1
+Bhadravati,13.8485,75.705,India,Karnataka,212073,1356466241,walmart potential location,0,50,1
+Nandyal,15.48,78.48,India,Andhra Pradesh,211424,1356671879,walmart potential location,0,50,1
+Panchkula,30.74,76.8,India,Haryana,211355,1356152025,walmart potential location,0,50,1
+Burhanpur,21.3,76.23,India,Madhya Pradesh,210891,1356857493,walmart potential location,0,50,1
+Kiratot,32.8376,76.2296,India,Himachal Pradesh,210406,1356118618,walmart potential location,0,50,1
+Kapra,17.4859,78.5651,India,Andhra Pradesh,209882,1356304297,walmart potential location,0,50,1
+Kharagpur,22.3302,87.3237,India,West Bengal,207604,1356305803,walmart potential location,0,50,1
+Robertsonpet,12.9563,78.2754,India,Karnataka,207350,1356245899,walmart potential location,0,50,1
+Dindigul,10.35,77.95,India,Tamil Nadu,207327,1356106153,walmart potential location,0,50,1
+Shimla,31.1033,77.1722,India,Himachal Pradesh,206575,1356962932,walmart potential location,0,50,1
+Hospet,15.2689,76.3909,India,Karnataka,206167,1356241463,walmart potential location,0,50,1
+Ingraj Bazar,25.0044,88.1458,India,West Bengal,205521,1356142829,walmart potential location,0,50,1
+Ongole,15.506,80.049,India,Andhra Pradesh,204746,1356385136,walmart potential location,0,50,1
+Betigeri,15.443,75.6442,India,Karnataka,204576,1356503334,walmart potential location,0,50,1
+Ellore,16.7117,81.1031,India,Andhra Pradesh,203780,1356931882,walmart potential location,0,50,1
+Deoghar,24.48,86.7,India,Jharkhand,203116,1356054191,walmart potential location,0,50,1
+Chhindwara,22.057,78.9396,India,Madhya Pradesh,202688,1356167692,walmart potential location,0,50,1
+Lingampalli,17.4865,78.317,India,Andhra Pradesh,202440,1356038214,walmart potential location,0,50,1
+Mokameh,25.3898,85.9191,India,Bihar,202411,1356053965,walmart potential location,0,50,1
+Puri,19.8106,85.8314,India,Odisha,201026,1356558409,walmart potential location,0,50,1
+Haldia,22.0667,88.0698,India,West Bengal,200827,1356491171,walmart potential location,0,50,1
+Khandwa,21.82,76.35,India,Madhya Pradesh,200738,1356696980,walmart potential location,0,50,1
+Pulimaddi,15.48,78.48,India,Andhra Pradesh,200516,1356431352,walmart potential location,0,50,1
+Morena,26.5,78,India,Madhya Pradesh,200483,1356019851,walmart potential location,0,50,1
+Drabar,33.43,75.09,India,Jammu and Kashmir,199429,1356426484,walmart potential location,0,50,1
+Amroha,28.9044,78.4675,India,Uttar Pradesh,198471,1356146062,walmart potential location,0,50,1
+Chakradharpur,22.7,85.63,India,Jharkhand,197953,1356082013,walmart potential location,0,50,1
+Bhiwani,28.78,76.13,India,Haryana,197662,1356780092,walmart potential location,0,50,1
+Bhind,26.5587,78.7871,India,Madhya Pradesh,197585,1356023125,walmart potential location,0,50,1
+Khammam,17.2473,80.1514,India,Andhra Pradesh,196283,1356007170,walmart potential location,0,50,1
+Madhyamgram,22.7,88.45,India,West Bengal,196127,1356501701,walmart potential location,0,50,1
+Ghandinagar,23.223,72.65,India,Gujarat,195891,1356140914,walmart potential location,0,50,1
+Baharampur,24.1,88.25,India,West Bengal,195223,1356612685,walmart potential location,0,50,1
+Morbi,22.82,70.83,India,Gujarat,194947,1356746232,walmart potential location,0,50,1
+Pandhurna,21.6,78.52,India,Madhya Pradesh,193818,1356533618,walmart potential location,0,50,1
+Fatehpur,25.93,80.8,India,Uttar Pradesh,193193,1356059135,walmart potential location,0,50,1
+Rae Bareli,26.2236,81.2403,India,Uttar Pradesh,191316,1356437243,walmart potential location,0,50,1
+Orai,25.98,79.47,India,Uttar Pradesh,190575,1356928689,walmart potential location,0,50,1
+Mahbubnagar,16.7488,78.0035,India,Andhra Pradesh,190400,1356014528,walmart potential location,0,50,1
+Rajendranagar,17.3198,78.4031,India,Andhra Pradesh,189076,1356684638,walmart potential location,0,50,1
+Bhusaval,21.05,75.77,India,Maharashtra,187421,1356338789,walmart potential location,0,50,1
+Bahraigh,27.575,81.594,India,Uttar Pradesh,186223,1356833304,walmart potential location,0,50,1
+Umreth,22.6986,73.1156,India,Gujarat,185320,1356307988,walmart potential location,0,50,1
+Mahesana,23.6,72.4,India,Gujarat,184991,1356719082,walmart potential location,0,50,1
+Alasandigutta,15.63,77.28,India,Andhra Pradesh,184625,1356256634,walmart potential location,0,50,1
+Raiganj,25.62,88.12,India,West Bengal,183612,1356159126,walmart potential location,0,50,1
+Batala,31.8186,75.2028,India,Punjab,183314,1356786750,walmart potential location,0,50,1
+Kottayam,9.5947,76.4856,India,Kerala,182927,1356307269,walmart potential location,0,50,1
+Sirsa,29.5333,75.0167,India,Haryana,182534,1356966764,walmart potential location,0,50,1
+Dinapore,25.6225,85.0417,India,Bihar,182241,1356729186,walmart potential location,0,50,1
+Tambaram,12.831,80.0459,India,Tamil Nadu,182071,1356045454,walmart potential location,0,50,1
+Karaikkudi,10.0735,78.7732,India,Tamil Nadu,181851,1356512763,walmart potential location,0,50,1
+Shrirampur,22.75,88.34,India,West Bengal,181842,1356021505,walmart potential location,0,50,1
+Himatnagar,23.6,72.95,India,Gujarat,181137,1356123042,walmart potential location,0,50,1
+Guna,24.65,77.32,India,Madhya Pradesh,180935,1356056608,walmart potential location,0,50,1
+Jaunpur,25.73,82.68,India,Uttar Pradesh,180362,1356646586,walmart potential location,0,50,1
+Mahad,18.083,73.417,India,Maharashtra,180191,1356857934,walmart potential location,0,50,1
+Madanapalle,13.55,78.5,India,Andhra Pradesh,180180,1356232508,walmart potential location,0,50,1
+Shivpuri,25.43,77.65,India,Madhya Pradesh,179977,1356583527,walmart potential location,0,50,1
+Hugli,22.9089,88.3967,India,West Bengal,179931,1356109548,walmart potential location,0,50,1
+Unnao,26.55,80.49,India,Uttar Pradesh,177658,1356012340,walmart potential location,0,50,1
+Alleppey,9.49,76.33,India,Kerala,177079,1356293762,walmart potential location,0,50,1
+Waraseoni,21.7647,80.0494,India,Madhya Pradesh,176291,1356634180,walmart potential location,0,50,1
+Mauli,30.699,76.693,India,Punjab,176152,1356181198,walmart potential location,0,50,1
+Kotdwara,29.75,78.53,India,Uttarakhand,175232,1356826143,walmart potential location,0,50,1
+Cuddalore,11.75,79.75,India,Tamil Nadu,173676,1356544008,walmart potential location,0,50,1
+Deo,24.6561,84.4356,India,Bihar,173216,1356131438,walmart potential location,0,50,1
+Silchar,24.82,92.8,India,Assam,172830,1356102467,walmart potential location,0,50,1
+Chirala,15.8246,80.3521,India,Andhra Pradesh,172826,1356100300,walmart potential location,0,50,1
+Gadag,15.4167,75.6167,India,Karnataka,172813,1356659359,walmart potential location,0,50,1
+Tiruvannamalai,12.13,79.07,India,Tamil Nadu,172348,1356561184,walmart potential location,0,50,1
+Bidar,17.912,77.52,India,Karnataka,172298,1356933453,walmart potential location,0,50,1
+Valsad,20.61,72.926,India,Gujarat,170060,1356306193,walmart potential location,0,50,1
+Machilipatnam,16.17,81.13,India,Andhra Pradesh,170000,1356067784,walmart potential location,0,50,1
+Medinipur,22.424,87.319,India,West Bengal,169264,1356432910,walmart potential location,0,50,1
+Damoh,23.8331,79.4419,India,Madhya Pradesh,168916,1356070737,walmart potential location,0,50,1
+Neyveli,11.6088,79.4994,India,Tamil Nadu,168368,1356265572,walmart potential location,0,50,1
+Baramula,34.2,74.34,India,Jammu and Kashmir,167986,1356671176,walmart potential location,0,50,1
+Jind,29.3167,76.3167,India,Haryana,167592,1356620188,walmart potential location,0,50,1
+Chandannagar,22.8671,88.3674,India,West Bengal,166867,1356174802,walmart potential location,0,50,1
+Adoni,15.6244,77.2731,India,Andhra Pradesh,166344,1356357749,walmart potential location,0,50,1
+Udipi,13.3389,74.7451,India,Karnataka,165401,1356145399,walmart potential location,0,50,1
+Fyzabad,26.773,82.146,India,Uttar Pradesh,165228,1356032860,walmart potential location,0,50,1
+Tenali,16.239,80.645,India,Andhra Pradesh,164937,1356831482,walmart potential location,0,50,1
+Conjeeveram,12.8308,79.7078,India,Tamil Nadu,164384,1356148941,walmart potential location,0,50,1
+Proddatur,14.73,78.55,India,Andhra Pradesh,163970,1356025913,walmart potential location,0,50,1
+Sultanpur Mazra,28.6981,77.0689,India,Delhi,163716,1356062549,walmart potential location,0,50,1
+Wapi,20.372,72.917,India,,163630,1356248785,walmart potential location,0,50,1
+Chitaldrug,14.2333,76.4,India,Karnataka,161966,1356668514,walmart potential location,0,50,1
+Godhra,22.7772,73.6203,India,Gujarat,161925,1356386046,walmart potential location,0,50,1
+Multai,21.77,78.25,India,Madhya Pradesh,161819,1356137691,walmart potential location,0,50,1
+Rajapalaiyam,9.4204,77.58,India,Tamil Nadu,161445,1356110350,walmart potential location,0,50,1
+Chittoor,13.216,79.098,India,Andhra Pradesh,160722,1356026391,walmart potential location,0,50,1
+Moga,30.822,75.174,India,Punjab,159897,1356017151,walmart potential location,0,50,1
+Budaun,28.05,79.12,India,Uttar Pradesh,159221,1356639213,walmart potential location,0,50,1
+Uttarpara,22.67,88.35,India,West Bengal,159147,1356370311,walmart potential location,0,50,1
+Bharuch,21.6948,72.9805,India,Gujarat,158253,1356981799,walmart potential location,0,50,1
+Saharsa,25.88,86.6,India,Bihar,156540,1356492911,walmart potential location,0,50,1
+Vidisha,23.5239,77.8061,India,Madhya Pradesh,155959,1356299932,walmart potential location,0,50,1
+Pathankot,32.2668,75.6,India,Punjab,155909,1356878237,walmart potential location,0,50,1
+Thanesar,29.9667,76.8167,India,Haryana,154962,1356380934,walmart potential location,0,50,1
+Rudarpur,28.9708,79.3972,India,Uttarakhand,154485,1356437436,walmart potential location,0,50,1
+Nalgonda,17.05,79.27,India,Andhra Pradesh,154326,1356414359,walmart potential location,0,50,1
+Dibrugarh,27.48,95,India,Assam,154019,1356100193,walmart potential location,0,50,1
+Veraval,20.9,70.37,India,Gujarat,153696,1356346826,walmart potential location,0,50,1
+Balurghat,25.22,88.76,India,West Bengal,153279,1356496150,walmart potential location,0,50,1
+Jorhat,26.75,94.22,India,Assam,153249,1356638741,walmart potential location,0,50,1
+Krishnanagar,23.4,88.5,India,West Bengal,153062,1356128689,walmart potential location,0,50,1
+Barakpur,22.7642,88.3776,India,West Bengal,152783,1356768708,walmart potential location,0,50,1
+Shantipur,23.25,88.43,India,West Bengal,151777,1356584320,walmart potential location,0,50,1
+Hindupur,13.83,77.49,India,Andhra Pradesh,151677,1356805611,walmart potential location,0,50,1
+Beawar,26.1011,74.3203,India,Rajasthan,151472,1356028963,walmart potential location,0,50,1
+Bhalswa Jahangirpur,28.7354,77.1638,India,Delhi,151427,1356078316,walmart potential location,0,50,1
+Erode,11.3409,77.7171,India,Tamil Nadu,151184,1356040695,walmart potential location,0,50,1
+Nangloi Jat,28.6833,77.0667,India,Delhi,150371,1356389587,walmart potential location,0,50,1
+Kolar,13.1333,78.1333,India,Karnataka,150357,1356953848,walmart potential location,0,50,1
+Soro,21.29,86.69,India,Odisha,150000,1356411349,walmart potential location,0,50,1
+Sitarganj,28.93,79.7,India,Uttarakhand,148266,1356157911,walmart potential location,0,50,1
+Hajipur,25.6925,85.2084,India,Bihar,147688,1356014808,walmart potential location,0,50,1
+Habra,22.83,88.63,India,West Bengal,147221,1356091822,walmart potential location,0,50,1
+Nowgong,26.3492,92.6861,India,Assam,147137,1356273589,walmart potential location,0,50,1
+Bir,18.9833,75.7667,India,Maharashtra,146709,1356753116,walmart potential location,0,50,1
+Narnaul,28.0444,76.1056,India,Haryana,145897,1356512084,walmart potential location,0,50,1
+Etah,27.63,78.67,India,Uttar Pradesh,145601,1356096916,walmart potential location,0,50,1
+Abohar,30.1334,74.2001,India,Punjab,145302,1356846795,walmart potential location,0,50,1
+Kaithal,29.8015,76.3998,India,Haryana,144915,1356810758,walmart potential location,0,50,1
+Chhatarpur,24.9177,79.5887,India,Madhya Pradesh,143982,1356776353,walmart potential location,0,50,1
+Koiridih,24.18,86.3,India,Jharkhand,143529,1356249967,walmart potential location,0,50,1
+Shillong,25.5744,91.8789,India,Meghalaya,143229,1356533936,walmart potential location,0,50,1
+Rewari,28.18,76.62,India,Haryana,143021,1356557800,walmart potential location,0,50,1
+Bhimavaram,16.543,81.523,India,Andhra Pradesh,142184,1356195520,walmart potential location,0,50,1
+Mandsaur,24.03,75.08,India,Madhya Pradesh,141667,1356467529,walmart potential location,0,50,1
+Kumbakonam,10.9602,79.3845,India,Tamil Nadu,140156,1356960436,walmart potential location,0,50,1
+Chicacole,18.3,83.9,India,Andhra Pradesh,137944,1356141471,walmart potential location,0,50,1
+Bankura,23.25,87.0667,India,West Bengal,137386,1356582158,walmart potential location,0,50,1
+Mandya,12.5242,76.8958,India,Karnataka,137358,1356039212,walmart potential location,0,50,1
+Dehri,24.91,84.18,India,Bihar,137231,1356452600,walmart potential location,0,50,1
+Khargone,21.8229,75.6139,India,Madhya Pradesh,136551,1356728712,walmart potential location,0,50,1
+Raigarh,21.8,83.3,India,Chhattisgarh,135363,1356458234,walmart potential location,0,50,1
+Siwan,26.22,84.36,India,Bihar,135066,1356238764,walmart potential location,0,50,1
+Chikmagalur,13.3167,75.7833,India,Karnataka,133651,1356137222,walmart potential location,0,50,1
+Hassan,13.005,76.1028,India,Karnataka,133436,1356007455,walmart potential location,0,50,1
+Gondia,21.45,80.2,India,Maharashtra,132821,1356105759,walmart potential location,0,50,1
+Palwal,28.143,77.329,India,Haryana,131926,1356128481,walmart potential location,0,50,1
+Palghat,10.7792,76.6547,India,Kerala,130955,1356115164,walmart potential location,0,50,1
+Chittandikavundanur,10.6931,76.7188,India,Tamil Nadu,130736,1356162407,walmart potential location,0,50,1
+Bongaigaon,26.4769,90.5583,India,Assam,129894,1356037877,walmart potential location,0,50,1
+Mukerian,31.95,75.62,India,Punjab,129841,1356427915,walmart potential location,0,50,1
+Hanumangarh,29.5833,74.3167,India,Rajasthan,129654,1356133715,walmart potential location,0,50,1
+Kanchrapara,22.9456,88.4332,India,West Bengal,129576,1356022687,walmart potential location,0,50,1
+Hoshangabad,22.7475,77.7274,India,Madhya Pradesh,128599,1356003812,walmart potential location,0,50,1
+Chas,23.63,86.17,India,Jharkhand,128331,1356317326,walmart potential location,0,50,1
+Khanna,30.7,76.22,India,Punjab,128137,1356905575,walmart potential location,0,50,1
+Nagda,23.4564,75.4131,India,Madhya Pradesh,127484,1356765829,walmart potential location,0,50,1
+Palni,10.45,77.5161,India,Tamil Nadu,126751,1356384365,walmart potential location,0,50,1
+Guntakal,15.17,77.38,India,Andhra Pradesh,126270,1356140724,walmart potential location,0,50,1
+Mothihari,26.65,84.9167,India,Bihar,126158,1356540032,walmart potential location,0,50,1
+Pithampur,22.6197,75.6933,India,Madhya Pradesh,126099,1356912433,walmart potential location,0,50,1
+Navadwip,23.4088,88.3657,India,West Bengal,125543,1356449184,walmart potential location,0,50,1
+Patan,23.85,72.1167,India,Gujarat,125497,1356500905,walmart potential location,0,50,1
+Basirhat,22.6612,88.866,India,West Bengal,125254,1356109985,walmart potential location,0,50,1
+Halisahar,22.95,88.42,India,West Bengal,124939,1356242644,walmart potential location,0,50,1
+Sunam,30.13,75.8,India,Punjab,124590,1356036724,walmart potential location,0,50,1
+Rishra,22.71,88.35,India,West Bengal,124577,1356339732,walmart potential location,0,50,1
+Jharsugra,21.85,84.03,India,Odisha,124500,1356155035,walmart potential location,0,50,1
+Pali,23.35,81.05,India,Madhya Pradesh,124175,1356107944,walmart potential location,0,50,1
+Nandgaon,20.307,74.657,India,Maharashtra,123191,1356282779,walmart potential location,0,50,1
+Alwal,17.5047,78.5038,India,Andhra Pradesh,123031,1356947057,walmart potential location,0,50,1
+Dimapur,25.92,93.73,India,Assam,122834,1356155429,walmart potential location,0,50,1
+Bhadrakh,21.0545,86.5156,India,Odisha,122119,1356245799,walmart potential location,0,50,1
+Dharmavaram,14.43,77.72,India,Andhra Pradesh,121874,1356879569,walmart potential location,0,50,1
+Baidyabati,22.79,88.32,India,West Bengal,121110,1356079081,walmart potential location,0,50,1
+Puruliya,23.3333,86.3667,India,West Bengal,121067,1356350196,walmart potential location,0,50,1
+Ghazipur,25.5833,83.5667,India,Uttar Pradesh,121020,1356773744,walmart potential location,0,50,1
+Bagaha,27.0992,84.09,India,Bihar,120736,1356397208,walmart potential location,0,50,1
+Gudiyattam,12.9476,78.87,India,Tamil Nadu,120716,1356530159,walmart potential location,0,50,1
+Gurdaspur,32.0333,75.4,India,Punjab,120564,1356120401,walmart potential location,0,50,1
+Bagalkot,16.1833,75.7,India,Karnataka,120104,1356504504,walmart potential location,0,50,1
+Satara,17.6833,73.9833,India,Maharashtra,120079,1356054526,walmart potential location,0,50,1
+Nokha,27.6,73.42,India,Rajasthan,120000,1356674096,walmart potential location,0,50,1
